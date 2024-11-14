@@ -9,3 +9,24 @@ Smoking Habits Analysis Based on Demographic  Factors-Performing Chi-Square Test
  and classification modeling. The findings provide insights into the
  demographic factors influencing smoking behaviors and highlight
  significant predictors for potential health interventions. 
+
+ 
+  **INTRODUCTION**
+
+  
+ **Background**: Smoking is a global public health concern
+ with well-documented risks. Demographic factors can influ
+ence smoking habits, with previous studies suggesting cor
+relations between smoking and factors such as gender, age,
+ income, and education.
+ 
+ **Objective**: This project aims to evaluate the relationship
+ between smoking behavior and demographic characteristics,
+ specifically analyzing the dependence of smoking habits on
+ gender. We will employ statistical testing and data analysis
+ to assess these relationships and build a predictive model to
+ classify smoking behavior.
+ 
+**Significance** Insights from this study can help in creating
+ targeted anti-smoking campaigns and healthcare initiatives by
+ identifying demographic groups more prone to smoking.
