@@ -30,3 +30,21 @@ relations between smoking and factors such as gender, age,
 **Significance** Insights from this study can help in creating
  targeted anti-smoking campaigns and healthcare initiatives by
  identifying demographic groups more prone to smoking.
+ 
+** What Is a Chi-Square Test?**
+
+ The Chi-Square test is a statistical procedure for determin
+ing the difference between observed and expected data. This
+ test can also be used to determine whether it correlates to the
+ categorical variables in our data. It helps to find out whether a
+ difference between two categorical variables is due to chance
+ or a relationship between them. In this test:
+ 
+1]Variance is double the times the number of degrees of
+ freedom.
+ 
+ 2]Mean distribution is equal to the number of degrees of
+ freedom.
+ 
+ 3]When the degree of freedom increases, the Chi-Square
+ distribution curve becomes normal
