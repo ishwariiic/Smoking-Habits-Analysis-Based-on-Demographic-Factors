@@ -31,7 +31,7 @@ relations between smoking and factors such as gender, age,
  targeted anti-smoking campaigns and healthcare initiatives by
  identifying demographic groups more prone to smoking.
  
-** What Is a Chi-Square Test?**
+**What Is a Chi-Square Test?**
 
  The Chi-Square test is a statistical procedure for determin
 ing the difference between observed and expected data. This
@@ -48,3 +48,12 @@ ing the difference between observed and expected data. This
  
  3]When the degree of freedom increases, the Chi-Square
  distribution curve becomes normal
+
+**II. DATA ANALYTICS EVALUATION**
+*A. Dataset Overview*
+**Data Source:** The dataset is sourced from Kaggle’s Smoking
+ Habits dataset.
+ 
+ Feature Description:
+ 
+ • Gender: Categorical variable (Male, Female).
