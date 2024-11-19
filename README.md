@@ -54,6 +54,18 @@ ing the difference between observed and expected data. This
 **Data Source:** The dataset is sourced from Kaggle’s Smoking
  Habits dataset.
  
- Feature Description:
+ *Feature Description:*
  
  • Gender: Categorical variable (Male, Female).
+ 
+  • Age: Continuous variable representing the age of partic
+ipants.
+
+ • Income Level: Ordinal variable indicating income brack
+ets.
+
+ • Education Level: Categorical or ordinal variable repre
+senting educational attainment.
+
+ • Smoking Status: Binary variable (smoker or non
+smoker).
