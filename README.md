@@ -69,3 +69,15 @@ senting educational attainment.
 
  • Smoking Status: Binary variable (smoker or non
 smoker).
+
+**Data Preprocessing:**
+
+ • *Handling Missing Values*: Outline techniques used, such
+ as mean imputation for age or mode imputation for
+ categorical features.
+ 
+ • *Encoding*: Convert categorical variables (gender, educa
+tion) into numeric form using one-hot or label encoding.
+
+ • *Normalization*: Scale continuous variables to ensure com
+parability across features.
