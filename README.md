@@ -76,8 +76,7 @@ smoker).
  as mean imputation for age or mode imputation for
  categorical features.
  
- • *Encoding*: Convert categorical variables (gender, educa
-tion) into numeric form using one-hot or label encoding.
+ • *Encoding*: Convert categorical variables (gender, education) into numeric form using one-hot or label encoding.
 
  • *Normalization*: Scale continuous variables to ensure com
 parability across features.
