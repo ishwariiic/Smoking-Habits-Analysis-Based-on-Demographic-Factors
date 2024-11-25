@@ -92,7 +92,8 @@ parability across features.
  Categorical variables can be divided into two categories:
  
  **Nominal Variable:** A nominal variable’s categories have
- no natural ordering. Example: Gender, Blood groups 
+ no natural ordering. Example: Gender, Blood groups.
+ 
  **Ordinal Variable:** A variable that allows the categories to be sorted
  is ordinal variables. Customer satisfaction (Excellent, Very
  Good, Good, Average, Bad, and so on) is an example.
