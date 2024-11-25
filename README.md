@@ -80,3 +80,20 @@ smoker).
 
  • *Normalization*: Scale continuous variables to ensure com
 parability across features.
+
+ **What Are Categorical Variables?**
+ 
+ Categorical variables belong to a subset of variables that can
+ be divided into discrete categories. Names or labels are the
+ most common categories. These variables are also known as
+ qualitative variables because they depict the variable’s quality
+ or characteristics.
+ 
+ Categorical variables can be divided into two categories:
+ 
+ **Nominal Variable:** A nominal variable’s categories have
+ no natural ordering. Example: Gender, Blood groups 
+ **Ordinal Variable:** A variable that allows the categories to be sorted
+ is ordinal variables. Customer satisfaction (Excellent, Very
+ Good, Good, Average, Bad, and so on) is an example.
+
