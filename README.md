@@ -101,9 +101,12 @@ parability across features.
  **A. Exploratory Data Analysis (EDA)**
  Descriptive Statistics: Present detailed descriptive statis
 tics:
- • Mean and Median: To understand the central tendency of
+
+ • *Mean and Median:* To understand the central tendency of
  continuous variables like age and income.
- • Variance: To assess the spread or variability within each
+ 
+ • *Variance*: To assess the spread or variability within each
  feature.
- • Skewness: Measure the asymmetry of the distribution (to
+ 
+ • *Skewness:*Measure the asymmetry of the distribution (to
  detect any skewed patterns)
