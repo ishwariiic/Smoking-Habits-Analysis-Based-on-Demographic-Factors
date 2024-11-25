@@ -97,4 +97,13 @@ parability across features.
  **Ordinal Variable:** A variable that allows the categories to be sorted
  is ordinal variables. Customer satisfaction (Excellent, Very
  Good, Good, Average, Bad, and so on) is an example.
-
+ 
+ **A. Exploratory Data Analysis (EDA)**
+ Descriptive Statistics: Present detailed descriptive statis
+tics:
+ • Mean and Median: To understand the central tendency of
+ continuous variables like age and income.
+ • Variance: To assess the spread or variability within each
+ feature.
+ • Skewness: Measure the asymmetry of the distribution (to
+ detect any skewed patterns)
