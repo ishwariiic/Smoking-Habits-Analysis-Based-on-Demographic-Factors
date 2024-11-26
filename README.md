@@ -109,4 +109,4 @@ tics:
  feature.
  
  • *Skewness:*Measure the asymmetry of the distribution (to
- detect any skewed patterns)
+ detect any skewed patterns).
