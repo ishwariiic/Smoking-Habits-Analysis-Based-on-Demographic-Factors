@@ -111,3 +111,12 @@ tics:
  
  • *Skewness:*Measure the asymmetry of the distribution (to
  detect any skewed patterns).
+ 
+ •*Kurtosis:* To assess the ”tailedness” of the distribution (to
+ identify any outliers or extreme values).
+ 
+ • *Correlation Analysis:* Generate a correlation matrix and heatmap for continuous
+ features to visualize relationships.
+ 
+ • *Discussion* on any notable correlations, e.g., if age corre
+lates with income or if education level influences income.
