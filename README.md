@@ -9,7 +9,27 @@ Smoking Habits Analysis Based on Demographic  Factors-Performing Chi-Square Test
  and classification modeling. The findings provide insights into the
  demographic factors influencing smoking behaviors and highlight
  significant predictors for potential health interventions. 
-
+ B. Chi-square Test- Statistical Analysis
+ . Statistical Analysis
+ • Chi-Square Test for Independence:
+ • Purpose: To determine if there is a significant association
+ between gender and smoking status.
+ • Hypothesis Setup:
+ • Null Hypothesis (H0): Smoking behavior is independent
+ of gender.
+ • Alternative Hypothesis (H1): Smoking behavior is not
+ independent of gender.
+ • Test Execution:
+ • Calculate the Chi-Square statistic by cross-tabulating gen
+der and smoking status.
+ • Calculate the degrees of freedom and obtain the p-value.
+ • Display results and visualize the Chi-Square distribution
+ if possible.
+ • Conclusion:
+ • Based on the p-value, conclude if gender significantly
+ affects smoking behavior.
+ • Interpretation of whether smoking behavior varies mean
+ingfully across genders
 
  
   **INTRODUCTION**
