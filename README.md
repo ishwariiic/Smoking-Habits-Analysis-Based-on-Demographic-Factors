@@ -9,6 +9,7 @@ Smoking Habits Analysis Based on Demographic  Factors-Performing Chi-Square Test
  and classification modeling. The findings provide insights into the
  demographic factors influencing smoking behaviors and highlight
  significant predictors for potential health interventions. 
+ 
  B. Chi-square Test- Statistical Analysis
  . Statistical Analysis,
  • Chi-Square Test for Independence:
